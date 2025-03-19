@@ -13,7 +13,7 @@ Welcome to my **Data Analysis Portfolio**, where I showcase my projects using **
 
 ### 📂 Projects Included:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • **Coffee Sales Dashboard** – [View Project](#)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • **Coffee Sales Dashboard** – [View Project](https://github.com/CatarinaPinheiro-datanalyst/CoffeeSales--Excel)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • **E-Commerce Sales Analysis** – [View Project](#)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • **Healthcare Data Insights** – [View Project](#)  
 
