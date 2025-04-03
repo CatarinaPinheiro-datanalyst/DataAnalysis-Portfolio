@@ -13,9 +13,9 @@ Welcome to my **Data Analysis Portfolio**, where I showcase my projects using **
 
 ### 📂 Projects Included:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • **Coffee Sales Dashboard** – [View Project](https://github.com/CatarinaPinheiro-datanalyst/CoffeeSales--Excel)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • **E-Commerce Sales Analysis** – [View Project](#)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • **Healthcare Data Insights** – [View Project](#)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • **Coffee Sales Dashboard- Excel** – [View Project](https://github.com/CatarinaPinheiro-datanalyst/CoffeeSales--Excel)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • **AirBnB Data Analysis- Python** – [View Project](https://github.com/CatarinaPinheiro-datanalyst/AirBnB-Data-Analysis---Python.git)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • **Sales Analysis- SQL** – [View Project](https://github.com/CatarinaPinheiro-datanalyst/SQL-project.git)  
 
 <br/>  
 
