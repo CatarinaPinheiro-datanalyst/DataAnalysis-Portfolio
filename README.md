@@ -30,4 +30,4 @@ Welcome to my **Data Analysis Portfolio**, where I showcase my projects using **
 
 ### 📬 Get in Touch
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💼 [LinkedIn](#) | 📧 [Email](#) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💼 [LinkedIn](https://linkedin.com/in/catarina-pinheiro-a1b987186) | 📧 [Email](mailto:catarinafvp@gmail.com) 
